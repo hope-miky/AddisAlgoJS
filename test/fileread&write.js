@@ -1,5 +1,5 @@
 let readcsv = require('../file.js')
 
-let data = readcsv.readCSV('./test/samplecsv.csv');
+let data = readcsv.main('./test/samplecsv.csv');
 
-//console.log(data)
+console.log(data)

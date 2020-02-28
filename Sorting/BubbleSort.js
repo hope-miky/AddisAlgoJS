@@ -18,4 +18,4 @@ function bubblesort(source) {
 
 
 
-console.log(bubblesort_stepwise([5, 4, 8, 7, 9, 2, 6]))
+//console.log(bubblesort_stepwise([5, 4, 8, 7, 9, 2, 6]))
