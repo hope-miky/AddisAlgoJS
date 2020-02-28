@@ -38,5 +38,8 @@ function withValue2(source) {
 }
 
 function mergeSort(source) {
-
+    let sourced = [5, 7, 2, 3, 5, 6, 2, 7];
+    console.log(main(sourced));
 }
+
+mergeSort();
