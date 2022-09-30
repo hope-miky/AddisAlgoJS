@@ -9,7 +9,7 @@
   "author": "Tesfamichael Molla Ali",
   "license": "MIT",
   "dependencies": {
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "jsdom": "^16.2.0"
   }
 }
